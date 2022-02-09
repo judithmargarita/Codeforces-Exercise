@@ -1,12 +1,6 @@
 # Codeforces-Exercise
 Inverting a number and get the min
 import java.util.ArrayList;
-/**
- * Inverting numbers  with 9 - t.
- * 
- * @author Judith Margarita Paco Llalli
- * @version 2022.02.08 jmpl
- */
 public class CodeForce01 {
     
     public int invertingNumber(int number) {
